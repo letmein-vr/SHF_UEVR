@@ -1,6 +1,4 @@
-# Silent Hill f UEVR
-
-A VR first-person mod for **UEVR** when playing *Silent Hill f*. 
+![Silent Hill F VR](https://raw.githubusercontent.com/letmein-vr/SHF_UEVR/main/screenshots/silenthillfvr.png)
 
 ---
 
