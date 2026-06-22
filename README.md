@@ -47,7 +47,7 @@
 
 ---
 
-## ⚠️ Known Issues
+## ⚠️ Known Issues ⚠️
 * **Camera Rotation:** Occasional camera/pawn rotation glitches during melee attacks.
 * **Costumes:** While costume changes work, certain changes in Hina's appearance may result in buggy or black textures.
 * **Visuals:** Hina's skirt currently renders as solid black.
