@@ -41,6 +41,10 @@
 * **Swing Force:** Large weapons (Hammer, Naginata, Axe) require a full downward controller swing for the best hit registration.
 * **Precision:** Melee is **not perfect**. Hits may occasionally fail to register due to internal cooldowns or enemy stagger animations.
 
+## Controls
+
+![Silent Hill F VR](https://raw.githubusercontent.com/letmein-vr/SHF_UEVR/main/screenshots/IMG_4747.jpeg)
+
 ---
 
 ## ⚠️ Known Issues
